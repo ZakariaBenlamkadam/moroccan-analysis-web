@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/moroccan-analysis-web/static/css/main.4f5993d7.css",
+    "main.js": "/moroccan-analysis-web/static/js/main.555d78fc.js",
+    "static/media/segoeuithibd.ttf": "/moroccan-analysis-web/static/media/segoeuithibd.e6c17ba4d59cc4a076e5.ttf",
+    "static/media/segoeuithis.ttf": "/moroccan-analysis-web/static/media/segoeuithis.a732fcf595dcf938faef.ttf",
+    "static/media/segoeuithisz.ttf": "/moroccan-analysis-web/static/media/segoeuithisz.03cdb62ac80c4681304a.ttf",
+    "static/media/segoeuithisi.ttf": "/moroccan-analysis-web/static/media/segoeuithisi.0e421b2e578f6e7871fa.ttf",
+    "index.html": "/moroccan-analysis-web/index.html",
+    "main.4f5993d7.css.map": "/moroccan-analysis-web/static/css/main.4f5993d7.css.map",
+    "main.555d78fc.js.map": "/moroccan-analysis-web/static/js/main.555d78fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f5993d7.css",
+    "static/js/main.555d78fc.js"
+  ]
+}
