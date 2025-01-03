@@ -1,1 +1,1 @@
-https://zakariabenlamkadam.github.io/mediai-web/
+https://zakariabenlamkadam.github.io/moroccan-analysis-web/
